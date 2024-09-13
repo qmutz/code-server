@@ -63,7 +63,7 @@
   "dependencies": {
     "@coder/logger": "^1.1.16",
     "applicationinsights": "1.0.8",
-    "chokidar": "3.5.1",
+    "chokidar": "4.0.0",
     "graceful-fs": "4.2.3",
     "http-proxy-agent": "^2.1.0",
     "https-proxy-agent": "^2.2.3",
